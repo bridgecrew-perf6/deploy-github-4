@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jphill4884/deploy-github.git/static/css/main.073c9b0a.css",
+    "main.js": "/jphill4884/deploy-github.git/static/js/main.13097d17.js",
+    "static/js/787.851438fc.chunk.js": "/jphill4884/deploy-github.git/static/js/787.851438fc.chunk.js",
+    "static/media/logo.svg": "/jphill4884/deploy-github.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/jphill4884/deploy-github.git/index.html",
+    "main.073c9b0a.css.map": "/jphill4884/deploy-github.git/static/css/main.073c9b0a.css.map",
+    "main.13097d17.js.map": "/jphill4884/deploy-github.git/static/js/main.13097d17.js.map",
+    "787.851438fc.chunk.js.map": "/jphill4884/deploy-github.git/static/js/787.851438fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.13097d17.js"
+  ]
+}
