@@ -1,6 +1,6 @@
 {
   "name": "lets-deploy-github",
-  "homepage": "https://github.com/jphill4884/deploy-github.git",
+  "homepage": "https://github.com/jphill4884/deploy-github",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
